@@ -2,7 +2,7 @@
 Steps involved in creating the model are :
 
 1. Data Cleaning
-2.EDA
+2. EDA
 3. Data Preprocessing
 4. Model Building
 
